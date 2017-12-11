@@ -1,0 +1,17 @@
+{
+  "name": "san-jose-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark and clean syntax theme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "orange",
+    "green"
+  ],
+  "repository": "https://github.com/jvanmourik/san-jose-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
